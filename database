@@ -1,5 +1,5 @@
 WhitelistedHWIDs ={
-    {"acd7353e43ef4b2a88bb676713cfa95a146163e91fc44fc12bfa8fe29e9ea02b06ef0b71b766dd7486b4a90b6930901bc914db38df6a0c11c20cf882f2158a83", 'B'}, ---W is For Load, B Is for Blacklist
+    {"acd7353e43ef4b2a88bb676713cfa95a146163e91fc44fc12bfa8fe29e9ea02b06ef0b71b766dd7486b4a90b6930901bc914db38df6a0c11c20cf882f2158a83", 'b'}, ---W is For Load, B Is for Blacklist
     {"6267EAA9-15FC-4158-9252-446FAF00094A", 'w'}
      
          
